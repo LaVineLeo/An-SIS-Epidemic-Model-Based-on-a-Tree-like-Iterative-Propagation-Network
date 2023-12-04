@@ -111,7 +111,7 @@ def show_iteration(Connections,Amount,Beta):        #传染病迭代输出模型
 ```
 # # 2.2 可视化效果（包括网络分布与迭代过程）
 
-![index]([https://github.com/LaVineLeo/Strategic-coordinate-scatter-plot/blob/main/%E5%AE%8F%E8%A7%82%E5%9B%BE.jpg](https://github.com/LaVineLeo/An-SIS-Epidemic-Model-Based-on-a-Tree-like-Iterative-Propagation-Network/blob/main/tree_network.png))
+![index](https://github.com/LaVineLeo/An-SIS-Epidemic-Model-Based-on-a-Tree-like-Iterative-Propagation-Network/blob/main/tree_network.png)
 
 
 后话：其实整个SIS传染病模型的实现并不难，还能根据各个垂直领域的大数据特征来仿真风险的传染路径，这样其实比传统的链路预测做得会更科学一点的，特别是对于某些行业的限制，如建筑物料供应运输网络，它们自身有着很大的运输半径的限制。
